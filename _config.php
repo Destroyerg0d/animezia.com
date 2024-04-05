@@ -24,7 +24,7 @@ $disqus = "https://watchzia.disqus.com"; // Disqus make your own
 $cdn = "https://cdnzia.pages.dev"; // cdn repo https://github.com/warlordsnet/cdnzia
 
 // API URL
-$api ="http://localhost:3000"; // api repo https://github.com/warlordsnet/zia-api
+$api ="https://446c-103-76-123-142.ngrok-free.app"; // api repo https://github.com/warlordsnet/zia-api
 
 $imgk = ""; // your imagekit id, make your own. instructions in readme.
 
