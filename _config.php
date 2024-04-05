@@ -28,7 +28,7 @@ $api ="https://446c-103-76-123-142.ngrok-free.app"; // api repo https://github.c
 
 $imgk = "wwadrr13g"; // your imagekit id, make your own. instructions in readme.
 
-$ani ="https://aniwatch-api-8pio.onrender.com"; // api repo https://github.com/warlordsnet/consu-api
+$ani ="https://a570-103-76-123-142.ngrok-free.app"; // api repo https://github.com/warlordsnet/consu-api
 
 $banner = "https://cdnzia.pages.dev/images/banner.webp";  //Banner use your own
 ?>
