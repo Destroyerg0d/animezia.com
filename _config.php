@@ -26,7 +26,7 @@ $cdn = "https://cdnzia.pages.dev"; // cdn repo https://github.com/warlordsnet/cd
 // API URL
 $api ="https://446c-103-76-123-142.ngrok-free.app"; // api repo https://github.com/warlordsnet/zia-api
 
-$imgk = ""; // your imagekit id, make your own. instructions in readme.
+$imgk = "wwadrr13g"; // your imagekit id, make your own. instructions in readme.
 
 $ani ="https://aniwatch-api-8pio.onrender.com"; // api repo https://github.com/warlordsnet/consu-api
 
